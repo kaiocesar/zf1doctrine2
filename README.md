@@ -1,4 +1,7 @@
-zf1doctrine2
-============
+Zend Framework 1 com Doctirne 2
+==================================
 
-Estrutura modelo (Zend Framework 1 + Doctrine 2) implementa√ß√£o b√°sica
+Estrutura modelo (Zend Framework 1 + Doctrine 2) implementaÁ„o b·sica.
+
+
+programador.kaio@gmail.com
